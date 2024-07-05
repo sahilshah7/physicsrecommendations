@@ -120,7 +120,7 @@ function openModal(resourceId) {
         "CosmicVariance": `
             <h2>Cosmic Variance</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
-            <p><strong>Understanding Required:</strong> High</p>
+            <p><strong>Understanding Required:</strong> Moderate</p>
             <p><strong>Summary:</strong> Written by physicists, this blog covers a range of topics in cosmology and particle physics, suitable for those with a strong background in the field.</p>
             <a href="https://en.wikipedia.org/wiki/Cosmic_Variance_(blog)" target="_blank">Learn More</a>
         `,
