@@ -164,7 +164,7 @@ function openModal(resourceId) {
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
             <p><strong>Summary:</strong> Accessible yet detailed posts by astrophysicist Ethan Siegel, covering a wide range of cosmological topics.</p>
-            <a href="https://www.startswithabang.com/" target="_blank">Learn More</a>
+            <a href="https://bigthink.com/starts-with-a-bang/" target="_blank">Learn More</a>
         `,
         //Books
         "TheElegantUniverse": `
