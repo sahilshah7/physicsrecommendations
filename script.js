@@ -165,56 +165,6 @@ function openModal(resourceId) {
             <p><strong>Understanding Required:</strong> Moderate to High</p>
             <p><strong>Summary:</strong> Accessible yet detailed posts by astrophysicist Ethan Siegel, covering a wide range of cosmological topics.</p>
             <a href="https://bigthink.com/starts-with-a-bang/" target="_blank">Learn More</a>
-        `,
-        //Books
-        "TheElegantUniverse": `
-            <h2>The Elegant Universe by Brian Greene</h2>
-            <p><strong>Reading Effort:</strong> Moderate</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Explains string theory and the quest for a unified theory, suitable for physics majors and enthusiasts.</p>
-            <a href="https://www.goodreads.com/book/show/8049273-the-elegant-universe" target="_blank">Read</a>
-        `,
-        "TheParticleAtTheEndOfTheUniverse": `
-            <h2>The Particle at the End of the Universe by Sean Carroll</h2>
-            <p><strong>Reading Effort:</strong> Moderate</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Chronicles the discovery of the Higgs boson, offering insights into particle physics.</p>
-            <a href="https://www.goodreads.com/book/show/15744013-the-particle-at-the-end-of-the-universe" target="_blank">Read</a>
-        `,
-        "BlackHolesAndTimeWarps": `
-            <h2>Black Holes and Time Warps by Kip S. Thorne</h2>
-            <p><strong>Reading Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Explores the nature of black holes and their implications, written by a leading physicist.</p>
-            <a href="https://www.goodreads.com/book/show/17362.Black_Holes_Time_Warps" target="_blank">Read</a>
-        `,
-        "ABriefHistoryOfTime": `
-            <h2>A Brief History of Time by Stephen Hawking</h2>
-            <p><strong>Reading Effort:</strong> Moderate</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Discusses the nature of the universe, black holes, and time, making complex concepts accessible.</p>
-            <a href="https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time" target="_blank">Read</a>
-        `,
-        "Gravitation": `
-            <h2>Gravitation by Charles W. Misner, Kip S. Thorne, and John Archibald Wheeler</h2>
-            <p><strong>Reading Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> A comprehensive textbook on general relativity, essential for advanced physics students.</p>
-            <a href="https://www.goodreads.com/book/show/638371.Gravitation" target="_blank">Read</a>
-        `,
-        "IntroductionToQuantumMechanics": `
-            <h2>Introduction to Quantum Mechanics by David J. Griffiths</h2>
-            <p><strong>Reading Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Standard undergraduate textbook on quantum mechanics, providing a thorough introduction to the subject.</p>
-            <a href="https://www.goodreads.com/book/show/153908.Introduction_to_Quantum_Mechanics" target="_blank">Read</a>
-        `,
-        "Cosmology": `
-            <h2>Cosmology by Steven Weinberg</h2>
-            <p><strong>Reading Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Advanced textbook on cosmology by Nobel laureate Steven Weinberg, suitable for graduate students and researchers.</p>
-            <a href="https://www.goodreads.com/book/show/20183010" target="_blank">Read</a>
         `
     };
     
