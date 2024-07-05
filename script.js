@@ -21,49 +21,49 @@ function openModal(resourceId) {
             <h2>Physics World Stories</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This podcast delves into captivating physics stories and innovations, bringing advanced topics to life through interviews with leading physicists.</p>
+            <p><strong>Summary:</strong> The host of Physics World Stories, Andrew Glester, speaks with the people behind intriguing scientific tales on subjects like dark matter, gravitational waves, and the development of renewable energy sources.</p>
             <a href="https://podcasts.apple.com/us/podcast/physics-world-stories-podcast/id474208361" target="_blank">Listen</a>
         `,
         "QuantaSciencePodcast": `
             <h2>Quanta Science Podcast</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Explore in-depth news stories about developments in physics, mathematics, and computer science, presented by Quanta Magazine's editorial team.</p>
+            <p><strong>Summary:</strong> This podcast explores the fundamentals of theoretical computer science, theoretical physics, and the biological sciences.</p>
             <a href="https://podcasts.apple.com/us/podcast/quanta-science-podcast/id1021340531" target="_blank">Listen</a>
         `,
         "TitaniumPhysicists": `
             <h2>The Titanium Physicists</h2>
             <p><strong>Listening Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Hosted by Dr. Ben Tippett, this podcast explains complex physics concepts in an accessible way, featuring discussions with top physicists.</p>
+            <p><strong>Summary:</strong> Explains concepts from advanced physics, such as quantum mechanics, lightning, and black holes.</p>
             <a href="https://podcasts.apple.com/us/podcast/the-titanium-physicists-podcast/id483978280" target="_blank">Listen</a>
         `,
         "GreatMysteriesOfPhysics": `
             <h2>Great Mysteries of Physics</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This series explores fundamental questions in physics, featuring insights from experts in the field.</p>
+            <p><strong>Summary:</strong> Focuses on providing answers to elementary physics questions and explores in great detail the main mysteries that still stump the world's top physicists. This podcast will cover curled-up dimensions and parallel universes.</p>
             <a href="https://podcasts.apple.com/us/podcast/great-mysteries-of-physics/id1671588048" target="_blank">Listen</a>
         `,
         "RelativelyCertain": `
             <h2>Relatively Certain</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Produced by the Joint Quantum Institute, this podcast covers topics from quantum computing to astrophysics, straight from scientists.</p>
+            <p><strong>Summary:</strong> Produced by the Joint Quantum Institute, featuring talks from University of Maryland scientists on astrophysics to quantum computers.</p>
             <a href="https://podcasts.apple.com/us/podcast/relatively-certain/id611418918" target="_blank">Listen</a>
         `,
         "TheoreticalPhysicsSchoolsASC": `
             <h2>Theoretical Physics Schools (ASC)</h2>
             <p><strong>Listening Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Advanced discussions from the Arnold Sommerfeld Center for Theoretical Physics, covering a wide range of current topics in theoretical physics.</p>
+            <p><strong>Summary:</strong> You can access high-level talks on ASC from the Arnold Sommerfeld Center for Theoretical Physics. From highly mathematical topics like string theory to more practical areas like condensed matter physics, this podcast covers a wide range of topics.</p>
             <a href="https://podcasts.apple.com/us/podcast/theoretical-physics-schools-asc/id415301256" target="_blank">Listen</a>
         `,
         "GreatCoursesPodcast": `
             <h2>The Great Courses Podcast: The Torch</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Features lectures by top university professors on various scientific topics, offering college-level insights into complex subjects.</p>
+            <p><strong>Summary:</strong> Features college-level lectures on various scientific topics, including physics. Showcases scientists explaining the latest findings from the fields of astronomy, particle physics, and neuroscience.</p>
             <a href="https://podcasts.apple.com/us/podcast/the-torch-the-great-courses-podcast/id670966237" target="_blank">Listen</a>
         `,
         // YouTube Channels
@@ -71,7 +71,7 @@ function openModal(resourceId) {
             <h2>PBS Space Time</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Offers in-depth explanations of advanced physics and cosmology topics, suitable for college-level understanding.</p>
+            <p><strong>Summary:</strong> Explores the outer reaches of space, astrophysics, and sci-fi possibilities. This YouTube channel is hosted by Matt O'Dowd, who completed his Ph.D. at NASA's Space Telescope Science Institute.</p>
             <a href="https://www.youtube.com/c/pbsspacetime" target="_blank">Watch</a>
         `,
         "Veritasium": `
@@ -121,50 +121,50 @@ function openModal(resourceId) {
             <h2>Cosmic Variance</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate</p>
-            <p><strong>Summary:</strong> Written by physicists, this blog covers a range of topics in cosmology and particle physics, suitable for those with a strong background in the field.</p>
-            <a href="https://en.wikipedia.org/wiki/Cosmic_Variance_(blog)" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> Written by physicists, discussing physics and astrophysics. Cosmic Variance focuses on modern physics, astrophysics, and cosmology, at a level accessible to the interested non-scientist.</p>
+            <a href="https://en.wikipedia.org/wiki/Cosmic_Variance_(blog)" target="_blank">Read</a>
         `,
         "SymmetryMagazine": `
             <h2>Symmetry Magazine</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
             <p><strong>Summary:</strong> Offers engaging stories on particle physics and related fields, written for readers with a solid understanding of the subject.</p>
-            <a href="https://www.symmetrymagazine.org/" target="_blank">Learn More</a>
+            <a href="https://www.symmetrymagazine.org/" target="_blank">Read</a>
         `,
         "Astrobites": `
             <h2>Astrobites</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> A daily literature journal that summarizes new astrophysics research, ideal for graduate-level students and researchers.</p>
-            <a href="https://astrobites.org/" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> Summarizes current research. Talks about blue stars, black holes, and all about the universe.</p>
+            <a href="https://astrobites.org/" target="_blank">Read</a>
         `,
         "TheReferenceFrame": `
             <h2>The Reference Frame</h2>
             <p><strong>Reading Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Provides detailed and technical discussions on various physics topics, suitable for those with deep knowledge of the field.</p>
-            <a href="https://physicsworld.com/a/blog-life-the-reference-frame/" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> This blog talks about string theory and has a lot of ideas about science and the environment.</p>
+            <a href="https://physicsworld.com/a/blog-life-the-reference-frame/" target="_blank">Read</a>
         `,
         "Backreaction": `
             <h2>Backreaction</h2>
             <p><strong>Reading Effort:</strong> Moderate to High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> In-depth discussions by theoretical physicist Sabine Hossenfelder, covering advanced topics in physics.</p>
-            <a href="https://backreaction.blogspot.com/" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> In-depth discussions by a theoretical physicist. She discusses topics about sending particles to the past, artificial intelligence, and string theories.</p>
+            <a href="https://backreaction.blogspot.com/" target="_blank">Read</a>
         `,
         "QuantumFrontiers": `
             <h2>Quantum Frontiers</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Discusses recent advances in quantum physics research, written by experts in the field.</p>
-            <a href="https://quantumfrontiers.com/" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> Discusses recent advances in quantum physics.</p>
+            <a href="https://quantumfrontiers.com/" target="_blank">Read</a>
         `,
         "StartsWithABang": `
             <h2>Starts With A Bang!</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> Accessible yet detailed posts by astrophysicist Ethan Siegel, covering a wide range of cosmological topics.</p>
-            <a href="https://bigthink.com/starts-with-a-bang/" target="_blank">Learn More</a>
+            <p><strong>Summary:</strong> Discusses topics from quantum physics to the solar system and the universe.</p>
+            <a href="https://bigthink.com/starts-with-a-bang/" target="_blank">Read</a>
         `
     };
     
@@ -177,13 +177,7 @@ function closeModal() {
     modal.style.display = "none";
 }
 
-// Open the default tab
-document.getElementsByClassName("tablink")[0].click();
-
-// Close the modal when clicking anywhere outside of the modal
-window.onclick = function(event) {
-    var modal = document.getElementById("myModal");
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
+// Automatically open the Podcasts tab on page load
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelector(".tablink").click();
+});
