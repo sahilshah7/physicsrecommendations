@@ -21,49 +21,49 @@ function openModal(resourceId) {
             <h2>Physics World Stories</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Physics World Stories is a show hosted by Andrew Glester, who discusses interesting stories with the people behind dark matter, gravitational waves, renewable energy sources’ development, and others.</p>
+            <p><strong>Summary:</strong> Podcast hosted by Andrew Glester, who discusses stories with the people behind dark matter, gravitational waves, renewable energy sources, and more (Glester).</p>
             <a href="https://podcasts.apple.com/us/podcast/physics-world-stories-podcast/id474208361" target="_blank">Listen</a>
         `,
         "QuantaSciencePodcast": `
             <h2>Quanta Science Podcast</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This podcast looks at the basics of theoretical computer science, theoretical physics and the biological sciences.</p>
+            <p><strong>Summary:</strong> This podcast covers the basics of theoretical computer science and theoretical physics (Quanta Science Podcast).</p>
             <a href="https://podcasts.apple.com/us/podcast/quanta-science-podcast/id1021340531" target="_blank">Listen</a>
         `,
         "TitaniumPhysicists": `
             <h2>The Titanium Physicists</h2>
             <p><strong>Listening Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Contains tutorials for complicated thought processes, like quantum mechanics as well as lightning and black holes.</p>
+            <p><strong>Summary:</strong> The Titanium Physicists contains interesting topics, like quantum mechanics, lightning, and black holes (Tippett).</p>
             <a href="https://podcasts.apple.com/us/podcast/the-titanium-physicists-podcast/id483978280" target="_blank">Listen</a>
         `,
         "GreatMysteriesOfPhysics": `
             <h2>Great Mysteries of Physics</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Specializes in answers to basic physics questions and digs deeper into major enigmas to which the modern physicists have no answer. This podcast will include the concepts of curled-up dimensions as well as parallel universes.</p>
+            <p><strong>Summary:</strong> This podcast answers basic physics questions and digs deeper into problems that the modern physicists have no answer to. This podcast includes concepts of curled-up dimensions and parallel universes (Frankel).</p>
             <a href="https://podcasts.apple.com/us/podcast/great-mysteries-of-physics/id1671588048" target="_blank">Listen</a>
         `,
         "RelativelyCertain": `
             <h2>Relatively Certain</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> A video from the Joint Quantum Institute, that includes lectures by scientists from the University of Maryland concerning astrophysics and quantum computers.</p>
+            <p><strong>Summary:</strong> Relatively Certain includes lectures by scientists from the University of Maryland covering the topics of astrophysics and quantum computers (Relatively Certain).</p>
             <a href="https://podcasts.apple.com/us/podcast/relatively-certain/id611418918" target="_blank">Listen</a>
         `,
         "TheoreticalPhysicsSchoolsASC": `
             <h2>Theoretical Physics Schools (ASC)</h2>
             <p><strong>Listening Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> It is possible to find high level talks concerning ASC in Arnold Sommerfeld Center for Theoretical Physics. The material of this podcast ranges from the purely theoretical string theory to the applied condensed matter physics.</p>
+            <p><strong>Summary:</strong> This podcast ranges from theoretical string theory to applied condensed matter physics (Theoretical Physics Schools).</p>
             <a href="https://podcasts.apple.com/us/podcast/theoretical-physics-schools-asc/id415301256" target="_blank">Listen</a>
         `,
         "GreatCoursesPodcast": `
             <h2>The Great Courses Podcast: The Torch</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> These programs are knowledge-based programs that include topics used in colleges, examples of which are subjects in science such as physics. shows researchers, talking about some latest findings such as particle physics, neuroscience, and astronomy.</p>
+            <p><strong>Summary:</strong> This podcast shows researchers, talking about some of the latest findings such as particle physics, neuroscience, and astronomy (Leon).</p>
             <a href="https://podcasts.apple.com/us/podcast/the-torch-the-great-courses-podcast/id670966237" target="_blank">Listen</a>
         `,
         // YouTube Channels
@@ -71,99 +71,99 @@ function openModal(resourceId) {
             <h2>PBS Space Time</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Radiates on astrophysics, space travel and prospect of science fiction. Matt O’Dowd is the person who uploads videos to this channel. He did post doctorate at Space Telescope Science Institute in National Aeronautics and Space Administration.</p>
+            <p><strong>Summary:</strong> This youtube channel covers topics on astrophysics, space travel, and science fiction. Matt O’Dowd, the person who uploads videos to this channel, got his Ph.D. at NASA's Space Telescope Science Institute (O'Dowd).</p>
             <a href="https://www.youtube.com/c/pbsspacetime" target="_blank">Watch</a>
         `,
         "Veritasium": `
             <h2>Veritasium</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> As an encyclopaedia it spans many areas of science and goes up to the complex areas of physics.</p>
+            <p><strong>Summary:</strong> Veritasium spans across many areas of science and goes up to the complex areas of physics (Veritasium).</p>
             <a href="https://www.youtube.com/user/1veritasium" target="_blank">Watch</a>
         `,
         "SixtySymbols": `
             <h2>Sixty Symbols</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Provides extended discussions on various numbers of physic and astronomy and astrophysics topics. It includes clips giving synopsis of the black hole, gravitational waves, and how particles were formed.</p>
+            <p><strong>Summary:</strong> Sixty symbols includes discussions on various physic, astronomy, and astrophysics topics. This youtube channel includes mathematical equations of how particles were formed (Sixty Symbols).</p>
             <a href="https://www.youtube.com/user/sixtysymbols" target="_blank">Watch</a>
         `,
         "MinutePhysics": `
             <h2>MinutePhysics</h2>
-            <p><strong>Viewing Effort:</strong> Easy</p>
+            <p><strong>Viewing Effort:</strong> Low</p>
             <p><strong>Understanding Required:</strong> Moderate</p>
-            <p><strong>Summary:</strong> It is best for quick explanations or reviews because it dissects intricate topics well. It covers virtually every aspect in astronomy and physics.</p>
+            <p><strong>Summary:</strong> MinutePhysics is great for quick explanations. It covers virtually every aspect in astronomy and physics (Reich).</p>
             <a href="https://www.youtube.com/user/minutephysics" target="_blank">Watch</a>
         `,
         "PerimeterInstitute": `
             <h2>Perimeter Institute for Theoretical Physics</h2>
             <p><strong>Viewing Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> It is necessary to supply the theoretical levels and render intensive discussions and arguments on theoretical physics. The Perimeter Institute is dedicated to education and Research in the field of fundamental theoretical physics and one of the best outreach centers in the world.</p>
+            <p><strong>Summary:</strong> The Perimeter Institute is dedicated to education and research in the field of fundamental theoretical physics and is one of the best educational outreach centers in the world (Perimeter Institute for Theoretical Physics).</p>
             <a href="https://www.youtube.com/user/PIOutreach" target="_blank">Watch</a>
         `,
         "MITOpenCourseWare": `
             <h2>MIT OpenCourseWare – Physics</h2>
             <p><strong>Viewing Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Lectures at the university level concerning a rather wide range of physics-related topics is necessary. Sharing of content of thousands of MIT courses in the form of publication in media that is accessible to the public.</p>
+            <p><strong>Summary:</strong> Lectures at a top-level covering a wide range of physics-related topics and courses that are open to the public (MIT OpenCourseWare).</p>
             <a href="https://www.youtube.com/user/MIT" target="_blank">Watch</a>
         `,
         "StanfordUniversityChannel": `
             <h2>Stanford University Channel</h2>
             <p><strong>Viewing Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Includes lectures and presentations and guest speakers mostly from the faculty of Stanford Physics.</p>
+            <p><strong>Summary:</strong> Includes lectures, presentations, and guest speakers that are from the faculty of Stanford Physics (Stanford University).</p>
             <a href="https://www.youtube.com/user/StanfordUniversity" target="_blank">Watch</a>
         `,
         // Blogs
         "CosmicVariance": `
             <h2>Cosmic Variance</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
-            <p><strong>Understanding Required:</strong> Moderate</p>
-            <p><strong>Summary:</strong> By the authors – physicists, the topics covered are from the sphere of physics and astrophysics. Cosmic Variance is the blog about modern physics, astrophysics, cosmology where all topics are described using simple non-technical language to address non-specialized audiences.</p>
+            <p><strong>Understanding Required:</strong> Low</p>
+            <p><strong>Summary:</strong> Cosmic Variance is a blog about modern physics, astrophysics, and cosmology where all topics are described using simple and easy to understand language. (Cosmic Variance).</p>
             <a href="https://en.wikipedia.org/wiki/Cosmic_Variance_(blog)" target="_blank">Read</a>
         `,
         "SymmetryMagazine": `
             <h2>Symmetry Magazine</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> Other experts tend to present complex topics in the area of particle physics. The physics-related topics in blogging areas include dark matter, machine learning and artificial intelligence.</p>
+            <p><strong>Summary:</strong> Symmetry Magazine features topics of dark matter, machine learning and artificial intelligence (Symmetry Magazine).</p>
             <a href="https://www.symmetrymagazine.org/" target="_blank">Read</a>
         `,
         "Astrobites": `
             <h2>Astrobites</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Gives general information about contemporary research. Introduces blue stars, black holes, EVERYTHING about the cosmos.</p>
+            <p><strong>Summary:</strong> Astrobites gives general information about contemporary research and it also introduces blue stars, black holes, and everything else about the cosmos (Golay).</p>
             <a href="https://astrobites.org/" target="_blank">Read</a>
         `,
         "TheReferenceFrame": `
             <h2>The Reference Frame</h2>
             <p><strong>Reading Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> The blog is all about string theory and some ideas concerning science and nature.</p>
+            <p><strong>Summary:</strong> The Reference Frame blog is all about string theory and has some ideas concerning science and nature (Motl).</p>
             <a href="https://physicsworld.com/a/blog-life-the-reference-frame/" target="_blank">Read</a>
         `,
         "Backreaction": `
             <h2>Backreaction</h2>
             <p><strong>Reading Effort:</strong> Moderate to High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Conversations that are very detailed, conducted by a theoretical physicist. She speaks about the particles to the past, artificial intelligence, and the strings.</p>
+            <p><strong>Summary:</strong> Backreaction includes conversations by a theoretical physicist. She speaks about sending particles to the past, artificial intelligence, and string theory (Hossenfelder).</p>
             <a href="https://backreaction.blogspot.com/" target="_blank">Read</a>
         `,
         "QuantumFrontiers": `
             <h2>Quantum Frontiers</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Interaction concerning present knowledge of the latest developments in the field of quantum mechanics.</p>
+            <p><strong>Summary:</strong> The Quantum Frontiers blog features the latest developments in the field of quantum mechanics (Halpern).</p>
             <a href="https://quantumfrontiers.com/" target="_blank">Read</a>
         `,
         "StartsWithABang": `
             <h2>Starts With A Bang!</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> These include subjects right from quantum physics, the solar system and even the universe.</p>
+            <p><strong>Summary:</strong> Starts With A Bang includes subjects from quantum physics to the solar system and the universe (Siegel).</p>
             <a href="https://bigthink.com/starts-with-a-bang/" target="_blank">Read</a>
         `
     };
