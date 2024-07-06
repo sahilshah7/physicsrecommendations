@@ -122,7 +122,7 @@ function openModal(resourceId) {
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Low</p>
             <p><strong>Summary:</strong> Cosmic Variance is a blog about modern physics, astrophysics, and cosmology where all topics are described using simple and easy to understand language. (Cosmic Variance).</p>
-            <a href="https://en.wikipedia.org/wiki/Cosmic_Variance_(blog)" target="_blank">Read</a>
+            <a href="https://web.archive.org/web/20080407203546/http://cosmicvariance.com:80/" target="_blank">Read</a>
         `,
         "SymmetryMagazine": `
             <h2>Symmetry Magazine</h2>
