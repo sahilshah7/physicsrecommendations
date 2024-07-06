@@ -142,7 +142,7 @@ function openModal(resourceId) {
             <h2>Flipping Physics</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> The Flipping Physics blog is about the fundamentals of physics taught by a physics teacher. (Thomas-Palmer).</p>
+            <p><strong>Summary:</strong> The Flipping Physics blog is about the fundamentals of physics taught by a physics teacher (Thomas-Palmer).</p>
             <a href="https://www.flippingphysics.com/blog" target="_blank">Read</a>
         `,
         "Backreaction": `
