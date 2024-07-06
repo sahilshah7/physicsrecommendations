@@ -59,12 +59,12 @@ function openModal(resourceId) {
             <p><strong>Summary:</strong> This podcast ranges from theoretical string theory to applied condensed matter physics (Theoretical Physics Schools).</p>
             <a href="https://podcasts.apple.com/us/podcast/theoretical-physics-schools-asc/id415301256" target="_blank">Listen</a>
         `,
-        "GreatCoursesPodcast": `
-            <h2>The Great Courses Podcast: The Torch</h2>
-            <p><strong>Listening Effort:</strong> Moderate</p>
+        "TheCrisisInPhysics": `
+            <h2>The Crisis in Physics</h2>
+            <p><strong>Listening Effort:</strong> Moderate to High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This podcast shows researchers, talking about some of the latest findings such as particle physics, neuroscience, and astronomy (Leon).</p>
-            <a href="https://podcasts.apple.com/us/podcast/the-torch-the-great-courses-podcast/id670966237" target="_blank">Listen</a>
+            <p><strong>Summary:</strong> This podcast covers what situation fundamental physics is in right now (Carroll).</p>
+            <a href="https://www.preposterousuniverse.com/podcast/2023/07/31/245-solo-the-crisis-in-physics/" target="_blank">Listen</a>
         `,
         // YouTube Channels
         "PBSSpaceTime": `
