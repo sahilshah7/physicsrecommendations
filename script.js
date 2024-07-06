@@ -138,12 +138,12 @@ function openModal(resourceId) {
             <p><strong>Summary:</strong> Astrobites gives general information about contemporary research and it also introduces blue stars, black holes, and everything else about the cosmos (Golay).</p>
             <a href="https://astrobites.org/" target="_blank">Read</a>
         `,
-        "TheReferenceFrame": `
-            <h2>The Reference Frame</h2>
-            <p><strong>Reading Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> The Reference Frame blog is all about string theory and has some ideas concerning science and nature (Motl).</p>
-            <a href="https://physicsworld.com/a/blog-life-the-reference-frame/" target="_blank">Read</a>
+        "FlippingPhysics": `
+            <h2>Flipping Physics</h2>
+            <p><strong>Reading Effort:</strong> Moderate</p>
+            <p><strong>Understanding Required:</strong> Moderate to High</p>
+            <p><strong>Summary:</strong> The Flipping Physics blog is about the fundamentals of physics taught by a physics teacher. (Thomas-Palmer).</p>
+            <a href="https://www.flippingphysics.com/blog" target="_blank">Read</a>
         `,
         "Backreaction": `
             <h2>Backreaction</h2>
