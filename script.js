@@ -28,7 +28,7 @@ function openModal(resourceId) {
             <h2>Quanta Science Podcast</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This podcast covers the basics of theoretical computer science and theoretical physics (Quanta Science Podcast).</p>
+            <p><strong>Summary:</strong> This podcast covers the basics of theoretical computer science and theoretical physics ("Quanta Science Podcast").</p>
             <a href="https://podcasts.apple.com/us/podcast/quanta-science-podcast/id1021340531" target="_blank">Listen</a>
         `,
         "TitaniumPhysicists": `
@@ -49,14 +49,14 @@ function openModal(resourceId) {
             <h2>Relatively Certain</h2>
             <p><strong>Listening Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Relatively Certain includes lectures by scientists from the University of Maryland covering the topics of astrophysics and quantum computers (Relatively Certain).</p>
+            <p><strong>Summary:</strong> Relatively Certain includes lectures by scientists from the University of Maryland covering the topics of astrophysics and quantum computers ("Relatively Certain").</p>
             <a href="https://podcasts.apple.com/us/podcast/relatively-certain/id611418918" target="_blank">Listen</a>
         `,
         "TheoreticalPhysicsSchoolsASC": `
             <h2>Theoretical Physics Schools (ASC)</h2>
             <p><strong>Listening Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> This podcast ranges from theoretical string theory to applied condensed matter physics (Theoretical Physics Schools).</p>
+            <p><strong>Summary:</strong> This podcast ranges from theoretical string theory to applied condensed matter physics ("Theoretical Physics Schools").</p>
             <a href="https://podcasts.apple.com/us/podcast/theoretical-physics-schools-asc/id415301256" target="_blank">Listen</a>
         `,
         "TheCrisisInPhysics": `
@@ -78,14 +78,14 @@ function openModal(resourceId) {
             <h2>Veritasium</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> Veritasium spans across many areas of science and goes up to the complex areas of physics (Veritasium).</p>
+            <p><strong>Summary:</strong> Veritasium spans across many areas of science and goes up to the complex areas of physics ("Veritasium").</p>
             <a href="https://www.youtube.com/user/1veritasium" target="_blank">Watch</a>
         `,
         "SixtySymbols": `
             <h2>Sixty Symbols</h2>
             <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Sixty symbols includes discussions on various physic, astronomy, and astrophysics topics. This youtube channel includes mathematical equations of how particles were formed (Sixty Symbols).</p>
+            <p><strong>Summary:</strong> Sixty symbols includes discussions on various physic, astronomy, and astrophysics topics. This youtube channel includes mathematical equations of how particles were formed ("Sixty Symbols").</p>
             <a href="https://www.youtube.com/user/sixtysymbols" target="_blank">Watch</a>
         `,
         "MinutePhysics": `
@@ -99,36 +99,36 @@ function openModal(resourceId) {
             <h2>Perimeter Institute for Theoretical Physics</h2>
             <p><strong>Viewing Effort:</strong> High</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> The Perimeter Institute is dedicated to education and research in the field of fundamental theoretical physics and is one of the best educational outreach centers in the world (Perimeter Institute for Theoretical Physics).</p>
+            <p><strong>Summary:</strong> The Perimeter Institute is dedicated to education and research in the field of fundamental theoretical physics and is one of the best educational outreach centers in the world ("Perimeter Institute for Theoretical Physics").</p>
             <a href="https://www.youtube.com/user/PIOutreach" target="_blank">Watch</a>
         `,
-        "MITOpenCourseWare": `
-            <h2>MIT OpenCourseWare – Physics</h2>
-            <p><strong>Viewing Effort:</strong> High</p>
-            <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Lectures at a top-level covering a wide range of physics-related topics and courses that are open to the public (MIT OpenCourseWare).</p>
-            <a href="https://www.youtube.com/user/MIT" target="_blank">Watch</a>
+        "TheScienceAsylum": `
+            <h2>The Science Asylum</h2>
+            <p><strong>Viewing Effort:</strong> Moderate</p>
+            <p><strong>Understanding Required:</strong> Moderate to High</p>
+            <p><strong>Summary:</strong> The Science Asylum covers topics from physics to astronomy and has intriguing videos (Lucid).</p>
+            <a href="https://www.youtube.com/user/TheScienceAsylum/videos" target="_blank">Watch</a>
         `,
-        "StanfordUniversityChannel": `
-            <h2>Stanford University Channel</h2>
-            <p><strong>Viewing Effort:</strong> High</p>
+        "DrPhysicsA": `
+            <h2>DrPhysicsA</h2>
+            <p><strong>Viewing Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> High</p>
-            <p><strong>Summary:</strong> Includes lectures, presentations, and guest speakers that are from the faculty of Stanford Physics (Stanford University).</p>
-            <a href="https://www.youtube.com/user/StanfordUniversity" target="_blank">Watch</a>
+            <p><strong>Summary:</strong> A series of physics videos that give a basic introduction to the topics covered. These videos assume basic knowledge of algebra, calculus, and some general physics  (“DrPhysicsA”).</p>
+            <a href="https://www.youtube.com/user/DrPhysicsA/videos" target="_blank">Watch</a>
         `,
         // Blogs
         "CosmicVariance": `
             <h2>Cosmic Variance</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Low</p>
-            <p><strong>Summary:</strong> Cosmic Variance is a blog about modern physics, astrophysics, and cosmology where all topics are described using simple and easy to understand language. (Cosmic Variance).</p>
+            <p><strong>Summary:</strong> Cosmic Variance is a blog about modern physics, astrophysics, and cosmology where all topics are described using simple and easy to understand language. ("Cosmic Variance").</p>
             <a href="https://web.archive.org/web/20080407203546/http://cosmicvariance.com:80/" target="_blank">Read</a>
         `,
         "SymmetryMagazine": `
             <h2>Symmetry Magazine</h2>
             <p><strong>Reading Effort:</strong> Moderate</p>
             <p><strong>Understanding Required:</strong> Moderate to High</p>
-            <p><strong>Summary:</strong> Symmetry Magazine features topics of dark matter, machine learning and artificial intelligence (Symmetry Magazine).</p>
+            <p><strong>Summary:</strong> Symmetry Magazine features topics of dark matter, machine learning and artificial intelligence ("Symmetry Magazine").</p>
             <a href="https://www.symmetrymagazine.org/" target="_blank">Read</a>
         `,
         "Astrobites": `
